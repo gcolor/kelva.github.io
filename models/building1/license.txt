@@ -1,0 +1,11 @@
+Model Information:
+* title:	Village House
+* source:	https://sketchfab.com/3d-models/village-house-1fdca996d2f247f1b19a2cb33eabeef6
+* author:	DigimonLTD (https://sketchfab.com/digimonbtc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Village House" (https://sketchfab.com/3d-models/village-house-1fdca996d2f247f1b19a2cb33eabeef6) by DigimonLTD (https://sketchfab.com/digimonbtc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
